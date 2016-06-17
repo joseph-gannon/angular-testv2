@@ -4,7 +4,7 @@
   "description": "Testing out angular",
   "engines": {
     "node": "4.1.1"
-  }
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
